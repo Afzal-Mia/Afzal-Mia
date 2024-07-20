@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **Afzal-Mia/Afzal-Mia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Hi there 👋
 
-<div style="text-alignment:center">**<h1>I'm Afzal Mia</h1>**, a Full-Stack Developer.</div>
+**<h1>I'm Afzal Mia</h1>**, a Full-Stack Developer.
 
 ### About Me
 I'm passionate about building web applications. I enjoy learning new technologies and solving problems.
@@ -43,6 +43,6 @@ I'm passionate about building web applications. I enjoy learning new technologie
 -->
 
 ### Contact
-* Email: johndoe@example.com
-* LinkedIn: https://www.linkedin.com/in/johndoe
+* Email: mohammedafzal1213@gmail.com
+* LinkedIn:<a href="https://www.linkedin.com/in/afzal-mia-606aa0293/" >Profile</a>
 
