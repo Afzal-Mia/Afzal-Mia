@@ -14,3 +14,35 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hi there 👋
+
+<div style="text-alignment:center">**<h1>I'm Afzal Mia</h1>**, a Full-Stack Developer.</div>
+
+### About Me
+I'm passionate about building web applications. I enjoy learning new technologies and solving problems.
+
+### Skills
+[![HTML5](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://skillicons.dev/icons?i=react)](https://reactjs.org/)
+[![Redux](https://skillicons.dev/icons?i=redux)](https://redux.js.org/)
+[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
+[![Express.js](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgresql)](https://www.postgresql.org/)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
+[![Auth](https://skillicons.dev/icons?i=auth)](https://auth0.com/)
+
+<!--
+### Projects
+* [Project 1]
+* [Project 2]
+-->
+
+### Contact
+* Email: johndoe@example.com
+* LinkedIn: https://www.linkedin.com/in/johndoe
+
