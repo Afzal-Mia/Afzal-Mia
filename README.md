@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Hi there 👋
 
-<h1>**I'm Afzal-Mia**</h1>A Full-Stack Developer.
+<h1 style="text-align:center;">**I'm Afzal-Mia**</h1>A Full-Stack Developer.
 
 ### About Me
 I'm passionate about building web applications. I enjoy learning new technologies and solving problems.
