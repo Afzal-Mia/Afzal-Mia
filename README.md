@@ -26,7 +26,6 @@ Hi! I'm **Afzal-Mia**, a software developer who specializes in **web development
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" /></a>
   <a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react" alt="React" title="React" /></a>
   <a href="https://redux.js.org/"><img src="https://skillicons.dev/icons?i=redux" alt="Redux" title="Redux" /></a>
-  <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js" /></a>
   <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" /></a>
   <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" alt="Express.js" title="Express.js" /></a>
   <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" /></a>
@@ -53,8 +52,7 @@ Hi! I'm **Afzal-Mia**, a software developer who specializes in **web development
 #### 📊 Most Used Languages  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Afzal-Mia&layout=compact&theme=radical)
 
-#### ✨ Contributions  
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Afzal-Mia&theme=radical&hide_border=true)
+
 
 </div>
 
