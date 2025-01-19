@@ -1,48 +1,69 @@
+## Hi there! 👋
 
+<h1 align="center">I'm Afzal-Mia</h1>
+<h3 align="center">A Passionate Full-Stack Developer</h3>
 
-<!--
-**Afzal-Mia/Afzal-Mia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 💡 About Me
+Hi! I'm Afzal-Mia, a software developer who specializes in web development. I'm passionate about crafting modern, responsive, and user-friendly web applications. Learning new technologies and solving complex challenges keeps me motivated. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔧 Currently working on: **Building dynamic web applications.**
+- 🌱 Currently learning: **Next.js, TypeScript.**
+- 👫 Open to collaborate on: **Open-source projects and innovative ideas.**
+- ✉️ Reach me at: **mohammedafzal1213@gmail.com**
 
-## Hi there 👋
+---
 
-<h1 style="text-align:center;">**I'm Afzal-Mia**</h1>A Full-Stack Developer.
+### 🔧 Tech Stack & Skills
 
-### About Me
-I'm passionate about building web applications. I enjoy learning new technologies and solving problems.
+<div align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" /></a>
+  <a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react" alt="React" title="React" /></a>
+  <a href="https://redux.js.org/"><img src="https://skillicons.dev/icons?i=redux" alt="Redux" title="Redux" /></a>
+  <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js" /></a>
+  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" /></a>
+  <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" alt="Express.js" title="Express.js" /></a>
+  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" title="PostgreSQL" /></a>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" /></a>
+  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" /></a>
+  <a href="https://auth0.com/"><img src="https://skillicons.dev/icons?i=auth" alt="Auth" title="Auth" /></a>
+</div>
 
-### Skills
-[![HTML5](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![React](https://skillicons.dev/icons?i=react)](https://reactjs.org/)
-[![Redux](https://skillicons.dev/icons?i=redux)](https://redux.js.org/)
-[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
-[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
-[![Express.js](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
-[![PostgreSQL](https://skillicons.dev/icons?i=postgresql)](https://www.postgresql.org/)
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
-[![Auth](https://skillicons.dev/icons?i=auth)](https://auth0.com/)
+---
 
-<!--
-### Projects
-* [Project 1]
-* [Project 2]
--->
+### 🌐 Featured Projects
 
-### Contact
-* Email: mohammedafzal1213@gmail.com
-* LinkedIn:<a href="https://www.linkedin.com/in/afzal-mia-606aa0293/" >Profile</a>
+Here are some of my favorite projects:
 
+1. **[Quiz App](#)**: An interactive quiz application built with HTML, CSS, and JavaScript.
+2. **[Portfolio Website](#)**: My personal portfolio showcasing my projects and skills.
+3. **[E-commerce Platform](#)**: A full-stack e-commerce app using React, Node.js, and PostgreSQL.
+
+_Check out my repositories for more projects!_
+
+---
+
+### 📥 Profile Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Afzal-Mia&show_icons=true&theme=radical&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Afzal-Mia&layout=compact&theme=radical)
+
+</div>
+
+---
+
+### 📞 Let's Connect!
+
+- 📧 Email: [mohammedafzal1213@gmail.com](mailto:mohammedafzal1213@gmail.com)
+- 👤 LinkedIn: [Afzal-Mia](https://www.linkedin.com/in/afzal-mia-606aa0293/)
+- 🔗 GitHub: [Afzal-Mia](https://github.com/Afzal-Mia)
+
+---
+
+<h4 align="center">Thank you for visiting my profile! ✨ Let's build something amazing together. 🛠️</h4>
